@@ -1,2 +1,0 @@
-https://github.com/jozo/testdome-python-solutions
-https://github.com/resultakak/python-testdome-solutions
